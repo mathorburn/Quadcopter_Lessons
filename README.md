@@ -1,6 +1,5 @@
 # Quadcopter_Lessons
-This is a set of lessons to construct a simple UAV Quadcopter model and controller
-
+This is a set of lessons to construct a simple UAV Quadcopter model and controller.
 
 There are accompanying videos for each of the LiveScript lessons.
 
@@ -12,3 +11,5 @@ https://youtu.be/2wWBSF-PnQU
 
 Quadcopter Controller
 https://youtu.be/NTpKO9tPMsw
+
+There are also Simulink files that accompany the videos.
