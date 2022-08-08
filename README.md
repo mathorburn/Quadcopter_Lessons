@@ -12,4 +12,7 @@ https://youtu.be/2wWBSF-PnQU
 Quadcopter Controller
 https://youtu.be/NTpKO9tPMsw
 
+Quadcopter Controller Tuning
+https://youtu.be/pdi1WW146VE
+
 There are also Simulink files that accompany the videos.
