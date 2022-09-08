@@ -2,10 +2,14 @@
 Introduction
 
 Welcome to the MATLAB lesson on the UAV Airframe Model.   This lesson is prepared by California State University and MathWorks and is designed to help students understand and construct a simple UAV airframe model.   The MATLAB LiveScript lesson is the first of a four part series about UAV models:
+
 Airframe Model - You will be introduced to how to model the physics of flight
+
 Quadcopter Model - You will learn how to model the features of a quadcopter which distinguish it from other aircraft
+
 Quadcopter Control - You will be introduced to closed-loop control and how it can be implemented on a quadcopter
-PID Tuning - You will learn to use some of the tools to help you achieve the control performance you need.
+
+PID Tuning - You will learn to use some of the tools to help you achieve the control performance you need
 
 Each of these lessons will contain a set of MATLAB LiveScript modules followed by a video lesson developing the corresponding part of a Simulink model.   In the end, you will be able to assemble a Simulink model of a UAV of your own and will have an appreciation of the underlying physics and numerical calculations that compose the model.
 
