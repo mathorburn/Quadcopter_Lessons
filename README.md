@@ -25,7 +25,7 @@ https://youtu.be/pdi1WW146VE
 
 There are Simulink files accompanying each of the videos.
 
-Suggested Prework
+Suggested Prework - 
 The modules are self-contained, but it will be helpful to have some experience with MATLAB and Simulink.   You can get that experience from:
 
 MATLAB Onramp – a free two-hour introductory tutorial that teaches the essentials of MATLAB.
