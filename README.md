@@ -31,7 +31,7 @@ https://youtu.be/c5p6yPz7-l4
 
 There are Simulink files accompanying each of the videos.
 
-# Suggested Prework - 
+# Suggested Preparation - 
 
 The modules are self-contained, but it will be helpful to have some experience with MATLAB and Simulink.   You can get that experience from:
 
