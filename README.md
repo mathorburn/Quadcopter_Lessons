@@ -31,7 +31,7 @@ https://youtu.be/c5p6yPz7-l4
 
 There are Simulink files accompanying each of the videos.
 
-# Suggested Preparation - 
+# Suggested Preparation
 
 The modules are self-contained, but it will be helpful to have some experience with MATLAB and Simulink.   You can get that experience from:
 
@@ -40,6 +40,6 @@ MATLAB Onramp – a free two-hour introductory tutorial that teaches the essenti
 Simulink Onramp – a free three-hour introductory tutorial that teaches the essentials of Simulink.
 
 
-# Products Used - 
+# Products Used
 
 MATLAB, Simulink, Aerospace Blockset
