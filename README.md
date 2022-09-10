@@ -18,7 +18,7 @@ Each of these lessons will contain a set of MATLAB LiveScript modules followed b
 There are accompanying videos for each of the LiveScript lessons.
 
 Air Frame
-https://youtu.be/uQXS3aeMUhY
+https://youtu.be/mByk5UqPIA0
 
 Quadcopter
 https://youtu.be/cViiIFEXujc
